@@ -1,0 +1,74 @@
+[
+    {
+        "word": "journey",
+        "translation": "путешествие",
+        "example": "The journey to the mountains took us five hours.",
+        "example_translation": "Путешествие в горы заняло у нас пять часов."
+    },
+    {
+        "word": "arrange",
+        "translation": "организовать, улаживать, настраивать",
+        "example": "To arrange a meeting",
+        "example_translation": "организовать встречу"
+    },
+    {
+        "word": "caught",
+        "translation": "поймала",
+        "example": "The fox has caught 2 mice",
+        "example_translation": "Лиса поймала 2 мыши"
+    },
+    {
+        "word": "by the time",
+        "translation": "к тому времени",
+        "example": "She had done everything by the time I arrived.",
+        "example_translation": "Она сделала всё к тому времени, как я пришёл."
+    },
+    {
+        "word": "chase",
+        "translation": "догонять - если речь идет о физической погоне (гнаться за кем-то).",
+        "example": "One day, Max saw a butterfly and started to chase it.",
+        "example_translation": "Однажды Макс увидел бабочку и начал за ней гнаться."
+    },
+    {
+        "word": "flew",
+        "translation": "перелетела",
+        "example": "The butterfly flew over the fence, and Max followed it.",
+        "example_translation": "Бабочка перелетела через забор, и Макс последовал за ней."
+    },
+    {
+        "word": "over",
+        "translation": "через",
+        "example": "The butterfly flew over the fence, and Max followed it",
+        "example_translation": "Бабочка перелетела через забор, и Макс последовал за ней."
+    },
+    {
+        "word": "fence",
+        "translation": "забор",
+        "example": "The butterfly flew over the fence, and Max followed it.",
+        "example_translation": "Бабочка перелетела через забор, и Макс последовал за ней."
+    },
+    {
+        "word": "followed",
+        "translation": "последовал",
+        "example": "The butterfly flew over the fence, and Max followed it.",
+        "example_translation": "Бабочка перелетела через забор, и Макс последовал за ней."
+    },
+    {
+        "word": "shouted",
+        "translation": "крикнул",
+        "example": "Tom shouted, \"Max, come back!\" but Max didn’t listen.",
+        "example_translation": "Том крикнул: \"Макс, вернись!\", но Макс не слушал."
+    },
+    {
+        "word": "neighbor",
+        "translation": "сосед",
+        "example": "Tom ran after Max and found him in a neighbor's garden",
+        "example_translation": "Том побежал за Максом и нашел его в саду соседа."
+    },
+    {
+        "word": "wagged his tail",
+        "translation": "завилял хвостом",
+        "example": "Max was happy to see Tom and wagged his tail.",
+        "example_translation": "Макс был рад видеть Тома и завилял хвостом."
+    }
+]
